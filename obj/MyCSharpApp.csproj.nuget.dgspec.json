@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj": {}
+    "c:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj": {
+    "c:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectUniqueName": "c:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj",
         "projectName": "MyCSharpApp",
-        "projectPath": "C:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectPath": "c:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\MyCSharpApp.csproj",
         "packagesPath": "C:\\Users\\swift3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\obj\\",
+        "outputPath": "c:\\Users\\swift3\\MyCSharpApp\\MyCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\swift3\\AppData\\Roaming\\NuGet\\NuGet.Config"
