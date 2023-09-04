@@ -1,0 +1,14 @@
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\swift3\MyCSharpApp\MyCSharpApp\TestProject\obj\Debug\net7.0\ref\TestProject.dll
